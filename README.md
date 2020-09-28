@@ -2,7 +2,7 @@
 
 
 <a href="https://twitter.com/bhavyavishal1">
-  <img align="left" alt="Aaditay Garg | Twitter" width="21px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
+  <img align="left" alt="vishal | Twitter" width="21px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a> 
 
 <br />

@@ -5,7 +5,7 @@
   <img align="left" alt="vishal | Twitter" width="21px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a> 
 <a href="https://www.instagram.com/xortgamedevs/">
-  <img align="left" alt="vishal | Instagram" width="21px" src="https://seeklogo.com/images/T/Instagram-logo-A84FE9258E-seeklogo.com.png" />
+  <img align="left" alt="vishal | Instagram" width="21px" src="https://www.shutterstock.com/image-photo/valencia-spain-march-05-2017-instagram-622265417" />
 </a> 
 <br />
 <br />

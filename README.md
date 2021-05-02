@@ -1,30 +1,34 @@
- ### Hello! I am Bhavyavishal
+  ### Hi there and welcome to my GitHub page 👋
 
-
-<a href="https://twitter.com/bhavyavishal1">
-  <img align="left" alt="vishal | Twitter" width="21px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
-</a> 
-<a href="https://www.instagram.com/xortgamedevs/">
-  <img align="left" alt="Instagram" width="21px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
-</a> 
-<br />
-<br />
-
-Hi, I'm  Bhavyavishal, a Self Taught Dev.
-
+My name is Bhavyavishal and I am a web developer from Haryana, Kaithal. I do a lot of things, and some of them you may even find interesting. 🤞
+---
+### What do I do?
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
  
-- 🍓🍓 I’m currently learning  c# , unity.
-- _________________________________________
-- 👯 I’m start game devlopment
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
  
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
- 
- 
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
+</p>
+- I’m currently (and constantly) working on my <a href="https://Conect.github.io/">personal webapp</a>. 
+- I write a tech blog focused on React projects, tutorials, web design and other dev related topics like game devlopment. 
+- 
+### Send me a message!
+- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+<p>
+  
+  <a href="https://twitter.com/bhavyavishal1">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href=" https://www.instagram.com/xortgamedevs/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+   
+</p>
+---
+### Github stats
  
  

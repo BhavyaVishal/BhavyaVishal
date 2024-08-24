@@ -19,11 +19,7 @@ My name is Bhavyavishal and I am a web developer from Haryana, Kaithal. I do a l
 ### Send me a message!
 - I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
 <p>
-  
-  <a href="https://twitter.com/bhavyavishal1">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href=" https://www.instagram.com/xortgamedevs/">
+  <a href=" https://www.instagram.com/bhavya_x.o/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
    
